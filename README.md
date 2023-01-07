@@ -1,4 +1,4 @@
-# Community Classroom is OP
+# This community classroom is made for tutorial purpose
 
-- Kunal Kushwaha says that this community is amazing.
-- Kunal made this change
+- Pratik is a programmer
+- Pratik added some new point
